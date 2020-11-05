@@ -4,15 +4,15 @@ highlighter:      pygments
 
 
 # Setup
-title:            Hyde
+title:            Sergio P. Perez
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'President's PhD researcher at <a href="https://www.imperial.ac.uk/people/sergio.perez15" target="_blank">Imperial College London</a>.'
+url:              http://sergiopperez.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Sergio P. Perez'
+  url:            https://twitter.com/sergiopprz
 
 paginate:         5
 
