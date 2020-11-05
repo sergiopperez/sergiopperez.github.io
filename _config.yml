@@ -6,7 +6,7 @@ highlighter:      pygments
 # Setup
 title:            Sergio P. Perez
 tagline:          'A Jekyll theme'
-description:      'President's PhD researcher at <a href="https://www.imperial.ac.uk/people/sergio.perez15" target="_blank">Imperial College London</a>.'
+description:      'hello'
 url:              http://sergiopperez.github.io
 baseurl:          /
 
